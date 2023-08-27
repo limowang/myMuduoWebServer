@@ -1,3 +1,0 @@
-/home/limo/myMuduoWebServer/Build/CMakeFiles/myMuduoWebServer.dir
-/home/limo/myMuduoWebServer/Build/CMakeFiles/edit_cache.dir
-/home/limo/myMuduoWebServer/Build/CMakeFiles/rebuild_cache.dir
